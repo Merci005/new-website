@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header {
+    background-color: #111;
+    color: #fff;
+    padding: 35px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+.education {
+    background-color: #fafafa;
+    border-left: 5px solid #111;
+}
+
+.contact {
+    background-color: #eee;
+    text-align: center;
+}
+
+.contact button {
+    margin-top: 10px;
+}
+
+.about {
+    background-color: #ffffff;
+    border-left: 5px solid #444;
+}
+
+.skills {
+    background-color: #f9f9f9;
+    border-left: 5px solid #222;
+}
+
+.skills ul {
+    padding-left: 20px;
+}
+
+h2 {
+    color: #111;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+button {
+    padding: 10px 18px;
+    background-color: #111;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #111;
+    color: #fff;
+}
